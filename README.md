@@ -18,9 +18,9 @@
 <p> - :thought_balloon: Meu conselho pra quem está iniciando é: "Apenas que...Busquem conhecimento".</p>
 
 <div>
-<a href="https://github.com/guiTxgomes">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiTxgomes&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiTxgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/guilherme-teixeira-gomes">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-teixeira-gomes&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-teixeira-gomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
   
