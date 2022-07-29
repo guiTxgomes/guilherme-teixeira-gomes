@@ -2,7 +2,7 @@
 
 ### Hello, Devs!! 👋
 
-<p>Tenho 25 anos moro em São Paulo/SP! Sou iniciante na programação, foi amor a primeira vista, e a cada desafio de um novo projeto ou descobrir um bug esse amor aumenta!</p>
+<p>Tenho 26 anos moro em São Paulo/SP! Sou iniciante na programação, foi amor a primeira vista, e a cada desafio de um novo projeto ou descobrir um bug esse amor aumenta!</p>
 
   ![giphy](https://user-images.githubusercontent.com/106400520/173129442-c85461fa-13a0-4032-b4ea-68a90609da03.gif)
   
