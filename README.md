@@ -16,7 +16,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" />
   
-  <p> - :man_student: Cursando o ultimo semestre de Análise e Desenvolvimento de Sistemas <a href ="https://www.cruzeirodosul.edu.br/processo-seletivo/graduacao-presencial/?utm_source=google-search&utm_medium=cpc&utm_campaign=conversao&utm_content=presenciais_cruzeiro_-_2022-2_conversao_conversao_search_kw-marca_responsivo_-_institucional_&utm_term=cruzeiro%20do%20sul&gclid=CjwKCAjw14uVBhBEEiwAaufYx0O5frtdcrFppz0hX7Ow176axqbXDQtrpTUv9E4WJ-UIlocZgC9tzxoC4MEQAvD_BwE">UNCSUL (Universidade Cruzeiro do Sul)</a>.</p>
+  <p> - :man_student: Formado em Análise e Desenvolvimento de Sistemas <a href ="https://www.cruzeirodosul.edu.br/processo-seletivo/graduacao-presencial/?utm_source=google-search&utm_medium=cpc&utm_campaign=conversao&utm_content=presenciais_cruzeiro_-_2022-2_conversao_conversao_search_kw-marca_responsivo_-_institucional_&utm_term=cruzeiro%20do%20sul&gclid=CjwKCAjw14uVBhBEEiwAaufYx0O5frtdcrFppz0hX7Ow176axqbXDQtrpTUv9E4WJ-UIlocZgC9tzxoC4MEQAvD_BwE">UNCSUL (Universidade Cruzeiro do Sul)</a>.</p>
 <p> - :books: Aluno do curso Desenvolvemento Web Full Stack <a href="https://programadorbr.com/">(Programador BR)<a/>.</p>
 <p> - :books: Aluno do curso Front End & Design Web <a href="https://www.origamid.com/">(Origamid)<a/>.</p>
 <p> - :radio: Apaixonado por musica.</p>
