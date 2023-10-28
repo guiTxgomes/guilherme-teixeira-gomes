@@ -2,9 +2,9 @@
 
 ### Hello, Devs!! 👋
 
-<p>Tenho 26 anos</p>
+<p>Tenho 27 anos</p>
 <p>Resido em São Paulo-SP</p>
-<h1><strong>Desenvolvedor <br>Full Stack & <br>UX/UI Design</strong></h1>
+<h1><strong>Desenvolvedor <br>Full Stack</strong></h1>
 
   ![giphy](https://user-images.githubusercontent.com/106400520/173129442-c85461fa-13a0-4032-b4ea-68a90609da03.gif)
   
